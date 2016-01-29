@@ -1030,7 +1030,7 @@ p.ui-dropdown-list-trigger {
   padding: 2em 0 5em;
   position: relative;
   @include respond-min($main_menu-mobile_menu_cutoff) {
-    padding: 5em 0 8em;
+    padding: 12em 0 8em;
     background-image: image-url('homepage-background.jpg');
   }
 
